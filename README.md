@@ -1,2 +1,6 @@
-# Discord-Bot-Geli-tirme-G-nl-kleri
-Merhaba! Youtube üzerinde discord bot geliştirme dersleri veriyorum ve açık kaynak kodlarını Github üzerinde paylaşıyorum! Sende bot geliştirme ile ilgileniyorsan ve öğrenmek istiyorsan öncelikle kanalıma giderek öğretici videoları izlemeni isterim. Bu sebepten ötürü bir adet kanal linki bırakıyorum: https://www.youtube.com/c/aktilacengiz
+Merhaba! Bu proje Aktila Cengiz'in Youtube kanalı üzerindeki discord bot geliştirme günlükleri videosunda kullanılmıştır.
+Lütfen kullanırken saygı çerçevesinde kullananın ve sorgulamayınız.
+Bu kodların hepsi tarafımca Aktila Cengiz Tarafınca kodlanmıştır.
+Sizde kullanabilirsiniz açık kaynak kodudur. 
+Kullanırken bir yerde adımı ve soyadımı belirtirseniz sevinirim.
+Belirtmezseniz de canınız sağolsun! :)
