@@ -4,7 +4,7 @@ const chalk = require("chalk");
 const Advanced = require('discordjs-advanced');
                          
 const client = new Advanced.Client({
-    token: "NTQ4ODg1ODgzOTk1MTYwNTc4.D1L1zg.VohQ8sz3EHeFe2a1zj7d-PLP4U4", 
+    token: "TOKENİNİZ", 
     prefix: "!", 
     sahip: ["276057718354083860"], 
     komutDosya: "komutlar",
